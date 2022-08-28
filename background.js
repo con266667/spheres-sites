@@ -520,9 +520,5 @@ function normalizeColor(hexCode) {
   
   
   
-  
-  
-  
-  
-  var gradient = new Gradient();
-      gradient.initGradient("#gradient-canvas");
+//   var gradient = new Gradient();
+//       gradient.initGradient("#gradient-canvas");
